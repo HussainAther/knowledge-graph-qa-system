@@ -1,0 +1,4 @@
+flask
+llama-index
+networkx
+matplotlib
